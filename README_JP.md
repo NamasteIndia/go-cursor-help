@@ -4,7 +4,7 @@ This repository is now maintained in English.
 
 Please use the main documentation:
 
-- [README.md (English)](README.md)
+- [English README](README.md)
 
 Available language mappings:
 
