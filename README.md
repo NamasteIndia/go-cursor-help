@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&logo=bookstack)](https://github.com/yuaotian/go-cursor-help/blob/master/LICENSE)
 [![Stars](https://img.shields.io/github/stars/yuaotian/go-cursor-help?style=flat-square&logo=github)](https://github.com/yuaotian/go-cursor-help/stargazers)
 
-[🌟 English](README.md) | [🌏 Chinese](README_CN.md) | [🌏 Japanese](README_JP.md)
+[🌟 English](README.md) | [🌏 Chinese (→ English)](README_CN.md) | [🌏 Japanese (→ English)](README_JP.md)
 
 <img src="/img/cursor.png" alt="Cursor Logo" width="120"/>
 
