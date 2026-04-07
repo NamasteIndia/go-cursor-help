@@ -10,4 +10,3 @@ Available language mappings:
 
 - [English](README.md)
 - [Chinese Mapping](README_CN.md)
-- [Japanese Mapping](README_JP.md)
