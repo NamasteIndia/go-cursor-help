@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&logo=bookstack)](https://github.com/yuaotian/go-cursor-help/blob/master/LICENSE)
 [![Stars](https://img.shields.io/github/stars/yuaotian/go-cursor-help?style=flat-square&logo=github)](https://github.com/yuaotian/go-cursor-help/stargazers)
 
-[🌟 English](README.md) | [🌏 中文](README_CN.md) | [🌏 日本語](README_JP.md)
+[🌟 English](README.md) | [🌏 Chinese](README_CN.md) | [🌏 Japanese](README_JP.md)
 
 <img src="/img/cursor.png" alt="Cursor Logo" width="120"/>
 
@@ -270,7 +270,7 @@ winget install --id Microsoft.PowerShell --source winget
 
 </details>
 
-#### Windows 安装特性:
+#### Windows Installation Features:
 
 - 🔍 Automatically detects and uses PowerShell 7 if available
 - 🛡️ Requests administrator privileges via UAC prompt
@@ -416,14 +416,14 @@ Your feedback helps us improve the tool for everyone. Feel free to open an issue
 <tr>
 
 <td align="center">
-<b>微信赞赏</b><br>
-<img src="img/wx_zsm2.png" width="500" alt="微信赞赏码"><br>
-<small>要到饭咧？啊咧？啊咧？不给也没事~ 请随意打赏</small>
+<b>WeChat Donation</b><br>
+<img src="img/wx_zsm2.png" width="500" alt="WeChat donation QR"><br>
+<small>If this project helps you, feel free to donate any amount.</small>
 </td>
 <td align="center">
-<b>支付宝赞赏</b><br>
-<img src="img/alipay.png" width="500" alt="支付宝赞赏码"><br>
-<small>如果觉得有帮助,来包辣条犒劳一下吧~</small>
+<b>Alipay Donation</b><br>
+<img src="img/alipay.png" width="500" alt="Alipay donation QR"><br>
+<small>If you found this helpful, a small donation is appreciated.</small>
 </td>
 <td align="center">
 <b>Alipay</b><br>
@@ -433,7 +433,7 @@ Your feedback helps us improve the tool for everyone. Feel free to open an issue
 <td align="center">
 <b>WeChat</b><br>
 <img src="img/qun-22.jpg" width="500" alt="WeChat"><br>
-<em>二维码7天内(3月6日前前)有效，过期请加微信或者公众号`煎饼果子卷AI`</em>
+<em>This QR code is valid for 7 days. If it expires, contact via WeChat or the public account `JianbingGuoziJuanAI`.</em>
 </td>
 <!-- <td align="center">
 <b>ETC</b><br>
@@ -483,4 +483,3 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 </details>
-
